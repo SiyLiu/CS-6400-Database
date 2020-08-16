@@ -1,10 +1,10 @@
 # CS 6400: Project Phase 3
 
-## Team Members - Team 034
-- Jiachen Guo (@jguo330)
-- Zijun Huang (@zhuang363)
-- Siyuan Liu (@sliu703)
-- Chujie Zheng (@czheng49)
+## Team Members - They are the best teammates ever!
+- J Guo 
+- Z Huang 
+- S Liu 
+- C Zheng
 
 ### Description
 
